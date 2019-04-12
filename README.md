@@ -156,7 +156,7 @@ limitations under the License.
 
 ### 5. User Guide (TBD)
 
-#### 5.1 Work Flow
+#### 5.2 Work Flow
 
 ##### 5.2.1 Login:
    YangExplorer uses user accounts to manage workspaces. You can create a user account using admin page (See 5.3.1 Creating User Account) or use the predefined login (guest/guest). You must login (click on the Login button on top right corner)
